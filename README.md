@@ -136,6 +136,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 3. Push to the branch (`git push origin feature/AmazingFeature`)  
 4. Open a Pull Request  
 
+<img width="1403" height="725" alt="Screenshot 2025-10-05 at 11 48 23 a m" src="https://github.com/user-attachments/assets/903c404a-030a-4c47-892c-59872528e2a1" />
+
+<img width="1461" height="792" alt="Screenshot 2025-10-05 at 12 05 15 p m" src="https://github.com/user-attachments/assets/6220a791-9346-4000-aa7e-eae80c7cdef8" />
+<img width="1376" height="195" alt="Screenshot 2025-10-05 at 11 49 42 a m" src="https://github.com/user-attachments/assets/9fd531ca-75ad-48eb-a19c-32bb5e68f1a2" />
+<img width="713" height="515" alt="Screenshot 2025-10-05 at 11 49 20 a m" src="https://github.com/user-attachments/assets/1a5120c1-84b9-49b6-a8eb-fbe7edf10e71" />
+<img width="709" height="469" alt="Screenshot 2025-10-05 at 11 48 48 a m" src="https://github.com/user-attachments/assets/d140af10-9638-4e76-ada3-f276a80a0aaf" />
+<img width="1465" height="866" alt="Screenshot 2025-10-04 at 7 25 40 p m" src="https://github.com/user-attachments/assets/6bb14150-a416-4992-a542-1f0db0493860" />
+
 
 *"Automating exoplanet discovery through intelligent data analysis and modern web technologies"* 🚀
 
